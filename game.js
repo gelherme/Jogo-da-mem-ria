@@ -1,5 +1,5 @@
 let game = {
-    techs = ['bootstrap',
+    techs : ['bootstrap',
     'css',
     'electron',
     'firebase',
